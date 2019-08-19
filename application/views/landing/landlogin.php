@@ -6,7 +6,7 @@
             <article class="card-body setpad">
               <p class="lead"><? ?></p>
                   <div class="form-group">
-                    <label>Your email</label>
+                    <label>Your email ...</label>
                       <input name="" class="form-control" placeholder="Email" type="email">
                   </div> <!-- form-group// -->
                   <div class="form-group">
