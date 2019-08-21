@@ -1,6 +1,6 @@
 <body>
   <nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0">
-    <a class="col-sm-3 col-md-2 mr-0" href="<?php echo base_url() ?>dashboard">
+    <a class="col-sm-3 col-md-2 mr-0" href="<?php echo base_url() ?>adminpage">
         <img src="<?php echo base_url() ?>assets/images/logo_dashboard.svg" height="22">
     </a>
     <input class="form-control form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">

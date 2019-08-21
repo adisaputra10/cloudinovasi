@@ -57,6 +57,13 @@ class Adminpage extends CI_Controller {
     $this->load->view('admin/adminfooter', $data);
   }
 
+  public function login(){
+    $data['title_bar'] = "Login | Admin - Cloud Inovasi";
+    $data['header_page'] = "";
+    $data['sub_header_page'] = "Supports";  
+    $this->load->view('admin/adminlogin', $data);
+  }
+
  
 }
 

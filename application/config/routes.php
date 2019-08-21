@@ -68,6 +68,7 @@ $route['billing'] = 'dashpage/billing';
 $route['support'] = 'dashpage/support';
 
 // admin
+$route['admlogin'] = 'adminpage/login';
 $route['dashboardadmin'] = 'adminpage';
 $route['usersadmin'] = 'adminpage/users';
 $route['catalogadmin'] = 'adminpage/catalog';
